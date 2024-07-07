@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Cormorant Garamond", sans-serif;
 }
 
 html {
@@ -532,7 +532,7 @@ section .row span {
   position: absolute;
   top: 20%;
   left: 50%;
-  border: 2px solid #5b86e5;
+  border: 2px solid #c8e152;
   transform: translate(-50%, -100%) rotate(45deg);
   border-top: none;
   border-left: none;
